@@ -35,7 +35,7 @@ func main() {
   me.name     = "SPARUX-666"
   me.username = "SPARUX-666"
   me.age      = "20"
-  me.job      = "Android developer | Web developer | Pentester"
+  me.job      = "Android developer | Web developer | Pentester | AI developer"
   me.hobbies  = []string{"code", "music", " gaming"}
   
   fmt.Println(me)

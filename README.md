@@ -8,6 +8,13 @@
 
 ![Banner](assets/banner.png)
 
+### Logo ve Banner
+
+<div>
+  <img src="assets/logo.png" alt="Logo" style="width: 150px; height: auto; margin-right: 10px;" />
+  <img src="assets/banner.png" alt="Banner" style="width: 600px; height: auto;" />
+</div>
+
 ### Hakkımda
 
 ```go

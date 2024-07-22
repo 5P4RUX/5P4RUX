@@ -1,16 +1,23 @@
-## Hi there 👋
+package main
 
-<!--
-**Sparux-666/Sparux-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import "fmt"
 
-Here are some ideas to get you started:
+type Person struct {
+  name     string
+  username string
+  age      int
+  hobbies  []string
+  job      string
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+  var me = new(Person)
+  
+  me.name     = "Sparux-666"
+  me.username = "Sparux-666"
+  me.age      = 20
+  me.job      = "Android developer | Web developer | Pentester"
+  me.hobbies  = []string{"code","music", "gaming", "Visual Studio"}
+  
+  fmt.Println(me)
+}

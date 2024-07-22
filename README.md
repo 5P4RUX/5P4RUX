@@ -1,3 +1,15 @@
+## Merhaba! Ben SPARUX-666
+
+### Profil Resmi
+
+![Profil Resmi](assets/logo.png)
+
+### Banner
+
+![Banner](assets/banner.png)
+
+### Hakkımda
+
 ```go
 package main
 

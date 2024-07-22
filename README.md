@@ -9,7 +9,6 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=SPARUX-666&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
  </tr>  
 </table>
@@ -228,10 +227,6 @@ func main() {
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
+<p align="center"><img src="./assets/github-contribution-grid-snake.svg"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Footer -->
-
-<img src="./assets/images/Footer.jpg">

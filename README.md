@@ -1,13 +1,13 @@
-<img width=100% title="SPARUX-666" alt="SPARUX-666" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SPARUX-666&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="5P4RUX" alt="5P4RUX" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=5P4RUX&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
     <td>
       <br>
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SPARUX+666;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=SPARUX-666&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="SPARUX-666"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=5P4RUX&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="5P4RUX"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=SPARUX-666&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=5P4RUX&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
    </td>  
  </tr>  
@@ -32,8 +32,8 @@ type Person struct {
 func main() {
   var me = new(Person)
   
-  me.name     = "SPARUX-666"
-  me.username = "SPARUX-666"
+  me.name     = "5P4RUX"
+  me.username = "5P4RUX"
   me.age      = "20"
   me.job      = "Android developer | Web developer | Pentester | AI developer"
   me.hobbies  = []string{"code", "music", " gaming"}
@@ -42,14 +42,14 @@ func main() {
 }
 ```
 <!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=SPARUX-666"> -->
+<!--- <p align='center'><a href="https://api.daily.dev/get?r=5P4RUX"> -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
-    <a href="https://github.com/SPARUX-666">
+    <a href="https://github.com/5P4RUX">
           <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
@@ -190,19 +190,19 @@ func main() {
 ### 🏆GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/SPARUX-666">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=SPARUX-666&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <a href="https://github.com/5P4RUX">
+          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=5P4RUX&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
 </p>
-<p align="center"><img src="https://stardev.io/developers/SPARUX-666/badge/languages/global.svg" width="100%"></p>
+<p align="center"><img src="https://stardev.io/developers/5P4RUX/badge/languages/global.svg" width="100%"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
 
 
 <p align="center">
-<a href="https://github.com/SPARUX-666"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARUX-666&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=SPARUX-666&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/5P4RUX"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5P4RUX&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=5P4RUX&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
@@ -212,11 +212,11 @@ func main() {
 
 ### 📊 GitHub States
 <p align="center">
-<a href="https://github.com/SPARUX-666"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=SPARUX-666&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SPARUX-666&theme=dark&hide_border=false" />
+<a href="https://github.com/5P4RUX"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=5P4RUX&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=5P4RUX&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/SPARUX-666">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPARUX-666&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=SPARUX-666&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/5P4RUX">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5P4RUX&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=5P4RUX&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 

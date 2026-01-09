@@ -1,228 +1,69 @@
-<img width=100% title="5P4RUX" alt="5P4RUX" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=5P4RUX&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<div align="center">
 
-<table border="0">
- <tr>
-    <td>
-      <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+5P4RUX;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=5P4RUX&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="5P4RUX"/>
-      <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=5P4RUX&data=followers,repositories,stars,commits&theme=viridescent"/>
-    <td>
-   </td>  
- </tr>  
-</table>
+<!-- ============================================= -->
+<!--          MAXIMUM IMPACT WAVING HEADER         -->
+<!-- ============================================= -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,5,10,15,20,25,30&height=320&section=header&text=5P4RUX&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=52&desc=CYBER+ALCHEMIST+%7C+ANDROID+%7C+WEB+%7C+PENTEST+%7C+AI&descAlign=62&descAlignY=78&descSize=28&rotate=-5" 
+  width="100%"
+/>
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
+<!-- ============================================= -->
+<!--          HYPER TYPING + GLITCH EFFECT         -->
+<!-- ============================================= -->
+<br><br>
 
-```go
-package main
-
-import "fmt"
-
-type Person struct {
-  name string
-  username string
-  age int
-  hobbies []string
-  job string
-}
-
-func main() {
-  var me = new(Person)
-  
-  me.name     = "5P4RUX"
-  me.username = "5P4RUX"
-  me.age      = "20"
-  me.job      = "Android developer | Web developer | Pentester | AI developer"
-  me.hobbies  = []string{"code", "music", " gaming"}
-  
-  fmt.Println(me)
-}
-```
-<!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=5P4RUX"> -->
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
-
-<p align="center">
-    <a href="https://github.com/5P4RUX">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=800&color=00FFF5&center=true&vCenter=true&width=720&height=90&lines=SYSTEM+BOOT+COMPLETE...;5P4RUX+ONLINE;ENTER+THE+NEON+GRID" alt="Hyper Typing"/>
 
 <br>
-<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<div style="filter: drop-shadow(0 0 12px #00ffff88)">
+  <img src="https://komarev.com/ghpvc/?username=5P4RUX&label=NEON+VISITORS&color=00FFFF&style=for-the-badge&labelColor=0A0A1F" alt="Visitors"/>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️
+<!-- ============================================= -->
+<!--          DEEP GLASSMORPHISM CARD + CODE       -->
+<!-- ============================================= -->
+<br><br>
 
-> Tools and technologies that I have worked with and I'm interested in
+<div style="
+  position: relative;
+  background: linear-gradient(135deg, rgba(10,15,40,0.75), rgba(20,0,50,0.65));
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(0,255,255,0.25);
+  border-radius: 24px;
+  padding: 45px 55px;
+  max-width: 900px;
+  margin: 0 auto;
+  box-shadow: 
+    0 0 60px rgba(0,255,238,0.18),
+    inset 0 0 40px rgba(0,255,255,0.08);
+  overflow: hidden;
+">
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
- 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+  <!-- Subtle overlay glow -->
+  <div style="position:absolute; inset:0; background: radial-gradient(circle at 30% 20%, rgba(0,255,255,0.12), transparent 60%); pointer-events:none;"></div>
 
-### 🏆GitHub Trophies
+```go
+package core
 
-<p align="center">
-    <a href="https://github.com/5P4RUX">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=5P4RUX&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-    <img width="40%" src="https://holopin.me/amajaying3" />
-  </a>
-</p>
-<p align="center"><img src="https://stardev.io/developers/5P4RUX/badge/languages/global.svg" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+type Entity struct {
+    Designation  string     `json:"designation"`
+    Signature    string     `json:"signature"`
+    Epoch        int        `json:"epoch"`
+    Domains      []string   `json:"domains"`
+    Resonance    []string   `json:"resonance"`
+    ThreatLevel  string     `json:"threat_level"`
+}
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
-
-
-<p align="center">
-<a href="https://github.com/5P4RUX"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5P4RUX&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=5P4RUX&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-</p>
-
-- Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-### 📊 GitHub States
-<p align="center">
-<a href="https://github.com/5P4RUX"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=5P4RUX&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=5P4RUX&theme=dark&hide_border=false" />
- </a></p>
-<p align="center">
-<a href="https://github.com/5P4RUX">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5P4RUX&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=5P4RUX&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
-  </a>
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-<!-- Contribution Snake -->
-<p align="center"><img src="./assets/github-contribution-grid-snake.svg"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+func InitializeCore() *Entity {
+    return &Entity{
+        Designation:  "5P4RUX",
+        Signature:    "5P4RUX",
+        Epoch:        20,
+        Domains:      []string{"Android", "Web", "Pentest", "AI/ML", "Reverse Eng"},
+        Resonance:    []string{"Code", "Music", "Gaming", "Neon Nights", "Zero Days"},
+        ThreatLevel:  "CRITICAL / UNCONTAINED",
+    }
+}

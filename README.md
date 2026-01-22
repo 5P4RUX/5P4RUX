@@ -216,7 +216,7 @@ func main() {
  </a></p>
 <p align="center">
 <a href="https://github.com/5P4RUX">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5P4RUX&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=5P4RUX&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5P4RUX&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=5P4RUX&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
